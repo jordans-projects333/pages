@@ -1,3 +1,3 @@
 window.addEventListener('resize', () => {
-    alert('oi')
+    document.querySelector("main").style == window.innerHeight
   });
